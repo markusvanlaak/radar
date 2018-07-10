@@ -1,4 +1,5 @@
 name,ring,quadrant,isNew,description  
+Istio,adopt,frameworks,TRUE,"We should use it as sidecar container framework"
 Composer,adopt,tools,TRUE,"Although the idea of dependency management ..."  
 Canary builds,trial,techniques,FALSE,"Many projects have external code dependencies ..."  
 Apache Kylin,assess,platforms,TRUE,"Apache Kylin is an open source analytics solution ..."  
